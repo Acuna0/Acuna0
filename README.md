@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Acuna0
 - 👀 I’m interested in dogs, cats, hawks, nature, and spicy chicken sandwiches.
-- 🌱 I’m currently learning JavaScript, C/C++, and how to ride a unicycle.
 - 📫 @__acuna on Discord 
 
 <!---
